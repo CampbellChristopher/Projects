@@ -1,4 +1,3 @@
 ��# Projects
 
-first project
-hello world
+Collection of Projects from work and class
